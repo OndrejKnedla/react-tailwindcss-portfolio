@@ -1,3 +1,15 @@
+Jestli nepůjde:
+### "npm start" 
+
+tak zadejte do konzole: 
+
+### npm install react-scripts --save
+### npm install
+
+následně zadejte
+
+### npm start
+
 # react-portfolio-website
 
 # Getting Started with Create React App
