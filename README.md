@@ -1,10 +1,10 @@
 Jestli nepůjde:
-### "npm start" 
+### `npm start`
 
 tak zadejte do konzole: 
 
-### npm install react-scripts --save
-### npm install
+### `npm install react-scripts --save`
+### `npm install`
 
 následně zadejte
 
