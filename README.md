@@ -1,14 +1,19 @@
 Jestli nepůjde:
+
 ### `npm start`
 
 tak zadejte do konzole: 
 
+----------------------------------------
 ### `npm install react-scripts --save`
 ### `npm install`
+----------------------------------------
 
-následně zadejte
+následně zadejte:
 
-### npm start
+### `npm start`
+
+
 
 # react-portfolio-website
 
